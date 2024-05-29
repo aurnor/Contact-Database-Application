@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.34920.258
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD application 2", "CRUD application 2.csproj", "{D44C1C21-0289-4DD0-B139-6825EE5C13B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControllerTest", "..\UserControllerTest\UserControllerTest.csproj", "{2793B9FF-9483-4592-8B08-391B841984FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControllerTest", "UserControllerTest\UserControllerTest.csproj", "{2793B9FF-9483-4592-8B08-391B841984FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
